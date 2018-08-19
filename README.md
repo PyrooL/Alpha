@@ -10,7 +10,7 @@ Orient the PCB correctly before you start the build: the blockers on the side cl
 
 ![orientation](instruction_photos/orientation.jpg) 
 
-## Step 0 (OPTIONAL): Install a 2u stabilizer.
+(OPTIONAL): Install a 2u stabilizer.
 
 ## Step 1: Diodes
 
