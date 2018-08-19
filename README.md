@@ -55,6 +55,4 @@ Assemble the case: for each hole, pass a screw through the top plate, screw in a
 
 -  Plate design in both .svg and .ai (for lasercutting)
 
-- PCB gerbers
-
 - screenshots of default keymaps
