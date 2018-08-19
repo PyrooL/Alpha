@@ -36,7 +36,7 @@ Mount the Pro Micro on the bottom of the PCB, smooth side facing you. Solder.
 
 Mount the switches in the plate, and solder them all in.
 
-![switches](instruction_photos.switches.jpg)
+![switches](instruction_photos/switches.jpg)
 
 **Step 4 (OPTIONAL): LED strip**
 
