@@ -3,11 +3,14 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL
 
 
 # Build instructions
+
+## Before you start
+
 Orient the PCB correctly before you start the build: the blockers on the side closer to you, and the Pro Micro holes on the left. You should be able to read the "Too. Many. Keys." slogan on the side facing up.
 
 ![orientation](instruction_photos/orientation.jpg) 
 
-**Step 0 (OPTIONAL): Install a 2u stabilizer.**
+## Step 0 (OPTIONAL): Install a 2u stabilizer.
 
 ## Step 1: Diodes
 
