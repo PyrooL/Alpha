@@ -1,4 +1,25 @@
-# Alpha A 28-key semi-ortholinear mechanical keyboard designed by PyroL # Build instructions
+# Alpha 
+
+A 28-key semi-ortholinear mechanical keyboard designed by PyroL 
+
+# Build instructions
+
+## Parts
+
+- [ ] 1x Alpha PCB
+- [ ] 28x 1N4148 or equivalent diodes
+- [ ] 1x Pro Micro
+- [ ] 1x Case or plate set
+- [ ] 5x 10mm M3 standoffs
+- [ ] 10x 5mm M3 screws
+- [ ] 28x MX or Alps style switches of your choice
+- [ ] 1x Micro USB cable
+
+## Tools
+
+- [ ] Soldering station
+- [ ] Wire cutter
+- [ ] Screwdriver
 
 ## Before you start
 
