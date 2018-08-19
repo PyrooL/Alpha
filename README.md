@@ -1,8 +1,4 @@
-# Alpha
-A 28-key semi-ortholinear mechanical keyboard designed by PyroL
-
-
-# Build instructions
+# Alpha A 28-key semi-ortholinear mechanical keyboard designed by PyroL # Build instructions
 
 ## Before you start
 
@@ -52,7 +48,5 @@ Remove the 3M adhesive strip on the back of your LED strip and place it on the b
 Assemble the case: for each hole, pass a screw through the top plate, screw in a standoff to finger tightness, then screw in through the bottom plate. Once all screws and standoffs are installed, use a screwdriver to tighten as needed (but not too tight, as acrylic can be brittle!). Flash using QMK (use my firmware, or kbfirmware.com), and enjoy!
 
 # To add:
-
--  Plate design in both .svg and .ai (for lasercutting)
 
 - screenshots of default keymaps
