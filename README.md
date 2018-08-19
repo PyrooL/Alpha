@@ -3,11 +3,11 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL
 
 
 # Build instructions
-The Pro Micro will be on the **left**, so the “**top**” of the PCB is where it says “Too Many Keys”, and the “**bottom**” is where it says “By PyroL”.
+[Orient the PCB correctly before you start the build: the blockers on the side closer to you, and the Pro Micro holes on the left. You should be able to read the "Too. Many. Keys." slogan on the side facing up.](./instruction_photos/orientation.jpg) 
 
 Step 0 (OPTIONAL): Install the stabilizer.
 
-Step 1: Install and solder the diodes with the black line facing the square pad. Cut the excess leads. 
+Step 1: Install and solder the diodes on the bottom of the PCB, with the black line facing the square pad. Cut the excess leads. 
 
 Step 2: Mount the switches in the plate, and solder them all in.
 
