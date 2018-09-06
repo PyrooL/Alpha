@@ -50,7 +50,9 @@ Mount the Pro Micro on the bottom of the PCB, smooth side facing you. Solder.
 
 ![pmicro](instruction_photos/pmicrosoldered.jpg)
 
-**Very important:** after soldering, use a wire cutter to clip as much of the protruding standoff as possible. With 10mm standoffs this is a snug fit, and it is impossible with the standoffs at full length. Reflow your solder if it climbed up the wire.
+[bakingpy has an awesome guide](https://imgur.com/a/M9r3EW9) for an even lower-profile Pro Micro mounting solution that works with Alpha!
+
+**Very important:** after soldering, (regardless of if you mounted normally or bakingpy-style,) use a wire cutter to clip as much of the protruding standoff as possible. With 10mm standoffs this is a snug fit, and it is impossible with the standoffs at full length. Reflow your solder if it climbed up the wire.
 
 ## Step 3: Switches
 
