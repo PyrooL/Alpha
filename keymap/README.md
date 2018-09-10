@@ -10,4 +10,4 @@ The default keymap is somewhat organized by function:
 
  - Home layer: All letters, spacebar is shift on hold.
 
-![home layer](photos/keymap/home.png) 
+![home layer](../photos/keymap/home.png) 
