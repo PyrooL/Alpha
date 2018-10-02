@@ -64,6 +64,8 @@ Mount the switches in the plate, and solder them all in. Careful for bent pins!
 
 Remove the 3M adhesive strip on the back of your LED strip and place it on the bottom of the PCB. Cut 3 wires of similar length, preferably of different colors. The LEDs connect to the three-pin header next to the Pro Micro holes. Connect GND to the hole with a square pad, power to the middle hole, and Data In to the last hole.
 
+If there ever is a rev 2, I will put the holes in the right order...
+
 ![arrgeebee](photos/instructions/rgb.jpg)
 
 ## Step 5: Case and firmware
