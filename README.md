@@ -50,7 +50,7 @@ Insert the short side of the Pro Micro standoffs into the bottom of the PCB, and
 
 ![pmicro standoff soldered](photos/instructions/pmicro2.jpg)
 
-Mount the two switches that will sit in between the Pro Micro standoffs in the plate and solder them into the PCB at that location. Clip the pins after soldering to ensure the Pro Micro will sit flat. 
+Mount the two switches that will sit in between the Pro Micro standoffs in the plate and solder them into the PCB at that location. Clip the extruding switch pins after soldering to ensure the Pro Micro will sit flat. 
 
 ![pmicro switches](photos/instructions/pmicroswitches.jpg)
 
