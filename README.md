@@ -1,6 +1,14 @@
 # Alpha 
 
-A 28-key semi-ortholinear mechanical keyboard designed by PyroL 
+A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
+
+## History
+
+[First ever post](https://www.reddit.com/r/MechanicalKeyboards/comments/7nz4ge/ic_i_was_challenged_to_reduce_the_gherkin_and/?ref=share&ref_source=link)
+
+[PCB protos arrive](https://www.reddit.com/r/MechanicalKeyboards/comments/887hxn/its_so_cute_c/?ref=share&ref_source=link)
+
+[GB opens](https://www.reddit.com/r/MechanicalKeyboards/comments/8djw3d/gb_alpha_28key_keyboard/?ref=share&ref_source=link)
 
 # Build instructions
 
