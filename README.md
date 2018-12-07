@@ -2,7 +2,7 @@
 
 A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
-![example][https://i.imgur.com/LnNOKbX.jpg]
+![example](https://i.imgur.com/LnNOKbX.jpg)
 
 Build by /u/Polyzhu.
 
