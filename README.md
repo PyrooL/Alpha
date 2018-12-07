@@ -4,7 +4,7 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
 ![example](https://i.imgur.com/LnNOKbX.jpg)
 
-######Photo by /u/Polyzhu.
+###### Photo by /u/Polyzhu.
 
 ## History
 
