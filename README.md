@@ -2,6 +2,10 @@
 
 A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
+![example][https://i.imgur.com/LnNOKbX.jpg]
+
+Build by /u/Polyzhu.
+
 ## History
 
 [First ever post](https://www.reddit.com/r/MechanicalKeyboards/comments/7nz4ge/ic_i_was_challenged_to_reduce_the_gherkin_and/?ref=share&ref_source=link)
