@@ -20,7 +20,7 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
 - [ ] 1x Alpha PCB
 - [ ] 28x 1N4148 or equivalent diodes
-- [ ] 1x Pro Micro
+- [ ] 1x Pro Micro (**NOTE:** USB-C ports are experiencing some clearance issues since it's taller than Micro-B)
 - [ ] 1x Case or plate set
 - [ ] 5x 10mm M3 standoffs
 - [ ] 10x 5mm M3 screws
