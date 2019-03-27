@@ -1,0 +1,43 @@
+@font-face{
+    font-family: 'Hero';
+    src: url('assets/Hero/HeroLight-Regular.ttf') format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'HeroBold';
+    src: url('assets/Hero/HeroLight-Bold.ttf') format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+<<<<<<< HEAD
+*{
+    text-align: center;
+    width:500px;
+    margin:auto;
+  }
+
+=======
+>>>>>>> f36e16e... idek man
+h1{
+    font-family: 'Hero', sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    padding:20px;
+    max-width:55%;
+}
+
+img{
+    border-radius: 5px;
+    margin:auto;
+    height: auto;
+    width:70%;
+    padding-top:30px;
+    padding-bottom:30px;
+}
