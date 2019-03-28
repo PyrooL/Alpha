@@ -12,11 +12,6 @@
     font-style: normal;
 }
 
-body{
-    text-align: center;
-    margin:auto;
-  }
-
 h1{
     font-family: 'Hero', sans-serif;
     font-weight: 400;
@@ -29,11 +24,9 @@ p{
     max-width:55%;
 }
 
-img{
+.visual{
     border-radius: 5px;
     margin:auto;
     height: auto;
     width:70%;
-    padding-top:30px;
-    padding-bottom:30px;
 }
