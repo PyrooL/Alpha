@@ -21,12 +21,23 @@ p{
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
     padding:20px;
-    max-width:55%;
+    max-width:45%;
+}
+
+.title{
+    display:block;
+    width: 50%
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:70px;
+    margin-bottom:70px;
 }
 
 .visual{
+    display:block;
     border-radius: 5px;
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
     height: auto;
-    width:70%;
+    width:60%;
 }
