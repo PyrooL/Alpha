@@ -1,43 +1,98 @@
 @font-face{
     font-family: 'Hero';
-    src: url('assets/Hero/HeroLight-Regular.ttf') format(truetype);
+    src: url('assets/Hero/HeroLight-Regular.ttf') format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face{
-    font-family: 'HeroBold';
-    src: url('assets/Hero/HeroLight-Bold.ttf') format(truetype);
-    font-weight: normal;
+    font-family: 'Hero';
+    src: url('assets/Hero/HeroLight-Bold.ttf') format("truetype");
+    font-weight: bold;
     font-style: normal;
 }
 
-h1{
-    font-family: 'Hero', sans-serif;
+body {
+    margin: 0;
+    font-size: 15px;
+    line-height: 26px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+body, html {
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.scroll {
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.container {
+    width: 100vw;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.content {
+    max-width: 800px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+#visual img {
+    width: 800px;
+    max-width: calc(100vw - 200px);
+}
+
+#visual {
+    position: relative;
+}
+
+#visual::after {
+    content: "";
+    display: block;
+    width: calc(100% + 30px);
+    height: 2px;
+    background: lightgrey;
+    margin-left: -15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+#header {
+    width: 500px;
+    margin-bottom: 50px;
+    max-width: calc(100vw - 200px);
+}
+
+.nav {
+    font-size: 20px;
+    position: fixed;
+    width: 100vw;
+    left: 0;
+    top: 0;
+    background: white;
+    z-index: 10000;
+    height: 75px;
+    box-shadow:  0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2);
+    flex-flow: row nowrap;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+
+.name {
     font-weight: 400;
-}
-
-p{
-    font-family: 'Source Sans Pro', sans-serif;
-    text-align: center;
-    padding:20px;
-    max-width:45%;
-}
-
-.title{
-    display:block;
-    width: 50%
-    margin-left:auto;
-    margin-right:auto;
-    margin-top:70px;
-    margin-bottom:70px;
-}
-
-.visual{
-    display:block;
-    border-radius: 5px;
-    margin-left:auto;
-    margin-right:auto;
-    height: auto;
-    width:60%;
+    font-family: 'Hero';
+    font-size: 30px;
 }
