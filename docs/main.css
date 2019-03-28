@@ -15,7 +15,7 @@
 body {
     margin: 0;
     font-size: 15px;
-    line-height: 26px;
+    line-height: 20px;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
@@ -37,44 +37,42 @@ body, html {
     max-width:100vw;
     margin:auto;
     min-height: 100vh;
-    padding: 100px;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top: 25px;
     display: flex;
     justify-content: flex-start;
     flex-flow: column nowrap;
     align-items: center;
 }
 
-/*.content {
-    max-width: 800px;
-    display: flex;
-    justify-content: flex-start;
-    flex-flow: column nowrap;
-    align-items: center;
-}*/
+.sub{
+    color: grey;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 20px;
+}
 
-#visual img {
+.visual img {
     width: 800px;
     max-width: calc(100vw - 200px);
+    border-radius: 50px;
+    border: 2px grey solid;
 }
 
-#visual {
+.visual {
     position: relative;
 }
 
-#visual::after {
+.after::after, .before::before{
     content: "";
     display: block;
     width: calc(100% + 30px);
     height: 2px;
     background: lightgrey;
     margin-left: -15px;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 15px;
-}
-#header {
-    width: 500px;
-    margin-bottom: 50px;
-    max-width: calc(100vw - 200px);
 }
 
 .nav {
@@ -89,12 +87,20 @@ body, html {
     flex-flow: row nowrap;
     align-items: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     padding-left: 50px;
 }
 
-.name {
+.logo {
     font-weight: 400;
     font-family: 'Hero';
     font-size: 30px;
+}
+
+.tagline{
+    display:inline-block;
+    font-weight: 400;
+    font-family: 'Hero';
+    font-size: 18px;
+    padding-left: 50px;
 }
