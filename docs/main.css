@@ -1,11 +1,11 @@
-@font-face{
+@font-face {
     font-family: 'Hero';
     src: url('assets/Hero/HeroLight-Regular.ttf') format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family: 'Hero';
     src: url('assets/Hero/HeroLight-Bold.ttf') format("truetype");
     font-weight: bold;
@@ -14,8 +14,8 @@
 
 body {
     margin: 0;
-    font-size: 15px;
-    line-height: 20px;
+    font-size: 16px;
+    line-height: 24px;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
@@ -39,14 +39,14 @@ body, html {
     min-height: 100vh;
     padding-left: 100px;
     padding-right:100px;
-    padding-top: 25px;
+    padding-top: 24px;
     display: flex;
     justify-content: flex-start;
     flex-flow: column nowrap;
     align-items: center;
 }
 
-.sub{
+.sub {
     color: grey;
     font-size: 12px;
     font-weight: 600;
@@ -56,51 +56,82 @@ body, html {
 .visual img {
     width: 800px;
     max-width: calc(100vw - 200px);
-    border-radius: 50px;
-    border: 2px grey solid;
+    border-radius: 4px;
+    border: 1px lightgrey solid;
 }
 
 .visual {
     position: relative;
 }
 
-.after::after, .before::before{
+.after::after, .before::before {
     content: "";
     display: block;
     width: calc(100% + 30px);
-    height: 2px;
-    background: lightgrey;
+    height: 1px;
+    background: rgba(0,0,0,0.1);;
     margin-left: -15px;
     margin-top: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .nav {
-    font-size: 20px;
+    font-size: 18px;
     width: 100vw;
     left: 0;
     top: 0;
     background: white;
     z-index: 10000;
-    height: 55px;
+    height: 56px;
     border-bottom:1px solid rgba(0,0,0,0.1);
     flex-flow: row nowrap;
     align-items: center;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     padding-left: 50px;
+    user-select: none;
 }
 
 .logo {
+    display: flex;
+    flex-flow: row nowrap;
     font-weight: 400;
     font-family: 'Hero';
     font-size: 30px;
 }
 
-.tagline{
+.tagline {
     display:inline-block;
+    font-size: 18px;
     font-weight: 400;
     font-family: 'Hero';
-    font-size: 18px;
-    padding-left: 50px;
+    margin-left: 50px;
+}
+
+.buttons {
+    display:flex;
+    flex-flow: row nowrap;
+    height:100%
+}
+
+.navlink {
+    display: flex;
+    flex-flow: row;
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;
+}
+
+.navlink:hover{
+    background-color: lightgrey;
+    cursor: pointer;
+}
+
+.navlink:last-child {
+
+}
+
+a {
+    color: black;
 }
