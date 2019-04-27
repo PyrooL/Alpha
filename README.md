@@ -14,6 +14,8 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
 [GB opens](https://www.reddit.com/r/MechanicalKeyboards/comments/8djw3d/gb_alpha_28key_keyboard/?ref=share&ref_source=link)
 
+v1.1 and 1.2 PCBs pushed 4/27/19
+
 # Build instructions
 
 ## Parts
@@ -74,9 +76,9 @@ Mount the switches in the plate, and solder them all in. Careful for bent pins!
 
 ## Step 4 (OPTIONAL): LED strip
 
-Remove the 3M adhesive strip on the back of your LED strip and place it on the bottom of the PCB. Cut 3 wires of similar length, preferably of different colors. The LEDs connect to the three-pin header next to the Pro Micro holes. Connect GND to the hole with a square pad, power to the middle hole, and Data In to the last hole.
+**If you are using a v1.0 PCB (version not labeled in bottom right):** Remove the 3M adhesive strip on the back of your LED strip and place it on the bottom of the PCB. Cut 3 wires of similar length, preferably of different colors. The LEDs connect to the three-pin header next to the Pro Micro holes. Connect GND to the hole with a square pad, power to the middle hole, and Data In to the last hole.
 
-If there ever is a rev 2, I will put the holes in the right order...
+v1.1 and onwards has pins labeled and in the same order as they come on the strip!
 
 ![arrgeebee](photos/instructions/rgb.jpg)
 
@@ -85,3 +87,12 @@ If there ever is a rev 2, I will put the holes in the right order...
 Assemble the case: for each hole, pass a screw through the top plate, screw in a standoff to finger tightness, then screw in through the bottom plate. Once all screws and standoffs are installed, use a screwdriver to tighten as needed (but not too tight, as acrylic can be brittle!). Flash using QMK (use my firmware, or kbfirmware.com), and enjoy!
 
 Don't forget to send me a pic of your build at @PyroL#7672 on Discord or /u/pyrocrastinator! I'd love to see what you guys do with these!
+
+# Changelog
+* v1.1 3/2/19
+
+Added SKQG reset button pads (no need to manually short reset!) and fixed RGB pin order to match common SK6812/WS2812 pinout, and added silkscreen labels to RGB pins.
+
+* v1.2 4/27/19
+
+Diodes now are combo through-hole and SMD compatible! Breakout pins for artisan column ("tmo28") added on both sides. Routing cleaned up etc. 
