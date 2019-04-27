@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name alpha_pro_micro-rescue)(type Legacy)(uri ${KIPRJMOD}/alpha_pro_micro-rescue.lib)(options "")(descr ""))
+  (lib (name ComboDiode)(type Legacy)(uri ${KIPRJMOD}/combodiode.pretty/ComboDiode.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
 )

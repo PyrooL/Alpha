@@ -1,4 +1,7 @@
 (fp_lib_table
   (lib (name silkscreens)(type KiCad)(uri "$(KIPRJMOD)/silkscreens.pretty")(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri /Users/lucianom/git/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name combodiode)(type KiCad)(uri ${KIPRJMOD}/combodiode.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
 )

@@ -1,0 +1,23 @@
+(module PinHeader_1x03_P2.54mm_Horizontal (layer F.Cu) (tedit 5C5D19BF)
+  (descr "Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row")
+  (tags "Through hole angled pin header THT 1x03 2.54mm single row")
+  (fp_text reference "" (at 4.385 -2.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "" (at 4.385 7.35) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -1.27 -1.27) (end 0 -1.27) (layer F.SilkS) (width 0.12))
+  (fp_line (start -1.27 0) (end -1.27 -1.27) (layer F.SilkS) (width 0.12))
+  (fp_line (start -0.32 4.76) (end -0.32 5.4) (layer F.Fab) (width 0.1))
+  (fp_line (start -0.32 2.22) (end -0.32 2.86) (layer F.Fab) (width 0.1))
+  (fp_line (start -0.32 -0.32) (end -0.32 0.32) (layer F.Fab) (width 0.1))
+  (pad 3 thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

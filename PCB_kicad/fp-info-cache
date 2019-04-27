@@ -1,4 +1,4 @@
-16142322065300760
+16252644479252286
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6102,6 +6102,13 @@ C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
 0
 2
+2
+combodiode
+ComboDiode
+SOD-123
+SOD-123
+0
+6
 2
 Connector
 Banana_Jack_1Pin
@@ -48167,6 +48174,13 @@ Kailh-PG1350-1u-No-Clickhole
 4
 4
 Keebio-Parts
+Kailh-PG1350-1u-No-LED
+
+
+0
+2
+2
+Keebio-Parts
 Kailh-PG1350-1u-reversible
 
 
@@ -48279,11 +48293,11 @@ MX-Alps-Choc-1U-NoLED
 6
 2
 Keebio-Parts
-MX-Alps-Choc-1U-NoLED-PinFix
+MX-Alps-Choc-1U-NoLED-Reversible
 
 
 0
-6
+9
 2
 Keebio-Parts
 MX-Alps_Switch_Cutout
@@ -51387,6 +51401,34 @@ Alps-LEDOnly-1206-2.1mmCutout
 2
 2
 MX_Alps_Hybrid
+KailhChoc-1.5U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+KailhChoc-1.25U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+KailhChoc-1.75U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+KailhChoc-1U
+
+
+0
+4
+4
+MX_Alps_Hybrid
 LED
 
 
@@ -51421,6 +51463,13 @@ MX-1.5U-NoLED
 0
 4
 2
+MX_Alps_Hybrid
+MX-1.5U-Vertical
+
+
+0
+6
+4
 MX_Alps_Hybrid
 MX-1.25U
 
@@ -52052,6 +52101,34 @@ MXOnly-1.5U-FLIPPED
 4
 4
 MX_Alps_Hybrid
+MXOnly-1.5U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-1.5U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-1.5U-Vertical
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-1.5U-Vertical-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-1.25U
 
 
@@ -52066,12 +52143,47 @@ MXOnly-1.25U-FLIPPED
 4
 4
 MX_Alps_Hybrid
+MXOnly-1.25U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-1.75U
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-1.75U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-1.75U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-1.75U-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-1U
 
@@ -52080,12 +52192,75 @@ MXOnly-1U
 4
 4
 MX_Alps_Hybrid
+MXOnly-1U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-1U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-1U-Hotswap-Antishear
+
+
+0
+10
+2
+MX_Alps_Hybrid
+MXOnly-1U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-2.25U
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-2.25U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-2.25U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-2.25U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2.25U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2.25U-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-2.25U-ReversedStabilizers
 
@@ -52094,7 +52269,21 @@ MXOnly-2.25U-ReversedStabilizers
 4
 4
 MX_Alps_Hybrid
+MXOnly-2.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-2.75U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-2.75U-FLIPPED
 
 
 0
@@ -52108,12 +52297,40 @@ MXOnly-2.75U-FLIPPED-ReversedStabilizers
 4
 4
 MX_Alps_Hybrid
+MXOnly-2.75U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2.75U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2.75U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-2.75U-ReversedStabilizers
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-2.75U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-2U
 
@@ -52122,12 +52339,96 @@ MXOnly-2U
 4
 4
 MX_Alps_Hybrid
+MXOnly-2U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-2U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-2U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-2U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-2U-ReversedStabilizers
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-2U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-3U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-3U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-3U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-3U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-3U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-3U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-6.25U
 
@@ -52136,12 +52437,54 @@ MXOnly-6.25U
 4
 4
 MX_Alps_Hybrid
+MXOnly-6.25U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-6.25U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-6.25U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-6.25U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-6.25U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-6.25U-ReversedStabilizers
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-6.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-6U
 
@@ -52150,12 +52493,26 @@ MXOnly-6U
 4
 4
 MX_Alps_Hybrid
+MXOnly-6U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-6U-ReversedStabilizers
 
 
 0
 4
 4
+MX_Alps_Hybrid
+MXOnly-6U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 MX_Alps_Hybrid
 MXOnly-7U
 
@@ -52164,7 +52521,77 @@ MXOnly-7U
 4
 4
 MX_Alps_Hybrid
+MXOnly-7U-FLIPPED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-7U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-7U-Hotswap
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-7U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-7U-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
 MXOnly-7U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-7U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MXOnly-ISO
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-ISO-ReversedStabilizers
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-ISO-ROTATED
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MXOnly-ISO-ROTATED-ReversedStabilizers
 
 
 0
@@ -64442,6 +64869,13 @@ Molex-0548190589
 9
 6
 random-keyboard-parts
+PinHeader_1x03_P2.54mm_Horizontal
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+random-keyboard-parts
 PJ-3200B-4A
 
 
@@ -66240,6 +66674,62 @@ PCB antenna
 0
 2
 2
+RF_GPS
+Linx_RXM-GPS
+GPS Module, Linx
+gps linx
+0
+22
+22
+RF_GPS
+Sierra_XA11X0
+QFN-24, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification
+QFN-24 P1.20
+0
+24
+24
+RF_GPS
+Sierra_XM11X0
+QFN-20, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification
+QFN-20 P1.20
+0
+20
+20
+RF_GPS
+ublox_LEA
+ublox LEA 6/7/8, (https://www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)
+GPS ublox LEA 6/7/8
+0
+28
+28
+RF_GPS
+ublox_MAX
+ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)
+GPS ublox MAX 6/7/8
+0
+18
+18
+RF_GPS
+ublox_NEO
+ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)
+GPS ublox NEO 6/7/8
+0
+24
+24
+RF_GPS
+ublox_SAM-M8Q
+GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
+ublox SAM-M8Q
+0
+100
+20
+RF_GPS
+ublox_SAM-M8Q_HandSolder
+GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
+ublox SAM-M8Q
+0
+20
+20
 RF_Module
 Ai-Thinker-Ra-01-LoRa
 Ai Thinker Ra-01 LoRa
