@@ -14,8 +14,6 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 
 [GB opens](https://www.reddit.com/r/MechanicalKeyboards/comments/8djw3d/gb_alpha_28key_keyboard/?ref=share&ref_source=link)
 
-v1.1 and 1.2 PCBs pushed 4/27/19
-
 # Build instructions
 
 ## Parts
