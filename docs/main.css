@@ -100,6 +100,12 @@ body, html {
     font-size: 30px;
 }
 
+@media only screen and (max-width:1020px) {
+    .tagline {
+        display: none;
+    }
+}
+
 .tagline {
     display:inline-block;
     font-size: 18px;
@@ -134,4 +140,17 @@ body, html {
 
 a {
     color: black;
+}
+
+input[type=checkbox]{
+    margin-left: 20px;
+}
+
+label {
+    padding-left:12px;
+}
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+    color: grey;
 }
