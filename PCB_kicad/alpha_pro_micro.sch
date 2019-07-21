@@ -53,10 +53,10 @@ U 1 1 5A74337B
 P 1200 4400
 F 0 "K11" H 1150 4400 60  0000 C CNN
 F 1 "KEYSW" H 1200 4300 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1200 4400 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 1200 4400 60  0001 C CNN
 F 3 "" H 1200 4400 60  0000 C CNN
 	1    1200 4400
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D11
@@ -86,10 +86,10 @@ U 1 1 5A74349B
 P 2150 4400
 F 0 "K12" H 2100 4400 60  0000 C CNN
 F 1 "KEYSW" H 2150 4300 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2150 4400 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 2150 4400 60  0001 C CNN
 F 3 "" H 2150 4400 60  0000 C CNN
 	1    2150 4400
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K13
@@ -97,10 +97,10 @@ U 1 1 5A7434FC
 P 3100 4450
 F 0 "K13" H 3050 4450 60  0000 C CNN
 F 1 "KEYSW" H 3100 4350 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3100 4450 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 3100 4450 60  0001 C CNN
 F 3 "" H 3100 4450 60  0000 C CNN
 	1    3100 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D13
@@ -141,10 +141,10 @@ U 1 1 5A743D28
 P 4200 4450
 F 0 "K14" H 4150 4450 60  0000 C CNN
 F 1 "KEYSW" H 4200 4350 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4200 4450 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 4200 4450 60  0001 C CNN
 F 3 "" H 4200 4450 60  0000 C CNN
 	1    4200 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K15
@@ -152,10 +152,10 @@ U 1 1 5A743DA6
 P 5100 4450
 F 0 "K15" H 5050 4450 60  0000 C CNN
 F 1 "KEYSW" H 5100 4350 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5100 4450 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 5100 4450 60  0001 C CNN
 F 3 "" H 5100 4450 60  0000 C CNN
 	1    5100 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K16
@@ -163,10 +163,10 @@ U 1 1 5A743E25
 P 5950 4450
 F 0 "K16" H 5900 4450 60  0000 C CNN
 F 1 "KEYSW" H 5950 4350 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5950 4450 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 5950 4450 60  0001 C CNN
 F 3 "" H 5950 4450 60  0000 C CNN
 	1    5950 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D15
@@ -229,10 +229,10 @@ U 1 1 5A74B4D4
 P 1800 5150
 F 0 "K21" H 1750 5150 60  0000 C CNN
 F 1 "KEYSW" H 1800 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1800 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 1800 5150 60  0001 C CNN
 F 3 "" H 1800 5150 60  0000 C CNN
 	1    1800 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K22
@@ -240,10 +240,10 @@ U 1 1 5A74B62E
 P 2700 5150
 F 0 "K22" H 2650 5150 60  0000 C CNN
 F 1 "KEYSW" H 2700 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2700 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 2700 5150 60  0001 C CNN
 F 3 "" H 2700 5150 60  0000 C CNN
 	1    2700 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D22
@@ -273,10 +273,10 @@ U 1 1 5A74B858
 P 3650 5150
 F 0 "K23" H 3600 5150 60  0000 C CNN
 F 1 "KEYSW" H 3650 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3650 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 3650 5150 60  0001 C CNN
 F 3 "" H 3650 5150 60  0000 C CNN
 	1    3650 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D24
@@ -295,10 +295,10 @@ U 1 1 5A74BA93
 P 4700 5150
 F 0 "K24" H 4650 5150 60  0000 C CNN
 F 1 "KEYSW" H 4700 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4700 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 4700 5150 60  0001 C CNN
 F 3 "" H 4700 5150 60  0000 C CNN
 	1    4700 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K25
@@ -306,7 +306,7 @@ U 1 1 5A74BB37
 P 5950 5150
 F 0 "K25" H 5900 5150 60  0000 C CNN
 F 1 "KEYSW" H 5950 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED" H 5950 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-2U-StabFlip" H 5950 5150 60  0001 C CNN
 F 3 "" H 5950 5150 60  0000 C CNN
 	1    5950 5150
 	1    0    0    -1  
@@ -317,10 +317,10 @@ U 1 1 5A74BBF1
 P 8550 5150
 F 0 "K27" H 8500 5150 60  0000 C CNN
 F 1 "KEYSW" H 8550 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8550 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 8550 5150 60  0001 C CNN
 F 3 "" H 8550 5150 60  0000 C CNN
 	1    8550 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D25
@@ -383,10 +383,10 @@ U 1 1 5A74D94C
 P 9100 3700
 F 0 "K9" H 9050 3700 60  0000 C CNN
 F 1 "KEYSW" H 9100 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9100 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 9100 3700 60  0001 C CNN
 F 3 "" H 9100 3700 60  0000 C CNN
 	1    9100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K10
@@ -394,10 +394,10 @@ U 1 1 5A74E40B
 P 10050 3700
 F 0 "K10" H 10000 3700 60  0000 C CNN
 F 1 "KEYSW" H 10050 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10050 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 10050 3700 60  0001 C CNN
 F 3 "" H 10050 3700 60  0000 C CNN
 	1    10050 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D10
@@ -416,10 +416,10 @@ U 1 1 5A74EB74
 P 7150 4500
 F 0 "K17" H 7100 4500 60  0000 C CNN
 F 1 "KEYSW" H 7150 4400 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7150 4500 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 7150 4500 60  0001 C CNN
 F 3 "" H 7150 4500 60  0000 C CNN
 	1    7150 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D17
@@ -438,10 +438,10 @@ U 1 1 5A74EB82
 P 8100 4500
 F 0 "K18" H 8050 4500 60  0000 C CNN
 F 1 "KEYSW" H 8100 4400 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8100 4500 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 8100 4500 60  0001 C CNN
 F 3 "" H 8100 4500 60  0000 C CNN
 	1    8100 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D18
@@ -471,10 +471,10 @@ U 1 1 5A74EB96
 P 9100 4500
 F 0 "K19" H 9050 4500 60  0000 C CNN
 F 1 "KEYSW" H 9100 4400 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9100 4500 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 9100 4500 60  0001 C CNN
 F 3 "" H 9100 4500 60  0000 C CNN
 	1    9100 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K20
@@ -482,10 +482,10 @@ U 1 1 5A74EB9E
 P 10050 4500
 F 0 "K20" H 10000 4500 60  0000 C CNN
 F 1 "KEYSW" H 10050 4400 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10050 4500 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 10050 4500 60  0001 C CNN
 F 3 "" H 10050 4500 60  0000 C CNN
 	1    10050 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D20
@@ -504,10 +504,10 @@ U 1 1 5A750AE6
 P 7450 5150
 F 0 "K26" H 7400 5150 60  0000 C CNN
 F 1 "KEYSW" H 7450 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7450 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 7450 5150 60  0001 C CNN
 F 3 "" H 7450 5150 60  0000 C CNN
 	1    7450 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D26
@@ -526,10 +526,10 @@ U 1 1 5A7510F5
 P 9550 5150
 F 0 "K28" H 9500 5150 60  0000 C CNN
 F 1 "KEYSW" H 9550 5050 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9550 5150 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 9550 5150 60  0001 C CNN
 F 3 "" H 9550 5150 60  0000 C CNN
 	1    9550 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D28
@@ -1116,10 +1116,10 @@ U 1 1 5A74D127
 P 8100 3700
 F 0 "K8" H 8050 3700 60  0000 C CNN
 F 1 "KEYSW" H 8100 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8100 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 8100 3700 60  0001 C CNN
 F 3 "" H 8100 3700 60  0000 C CNN
 	1    8100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K7
@@ -1127,10 +1127,10 @@ U 1 1 5A74CEE1
 P 7150 3700
 F 0 "K7" H 7100 3700 60  0000 C CNN
 F 1 "KEYSW" H 7150 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7150 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 7150 3700 60  0001 C CNN
 F 3 "" H 7150 3700 60  0000 C CNN
 	1    7150 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K6
@@ -1138,10 +1138,10 @@ U 1 1 5A744689
 P 6100 3700
 F 0 "K6" H 6050 3700 60  0000 C CNN
 F 1 "KEYSW" H 6100 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 6100 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 6100 3700 60  0001 C CNN
 F 3 "" H 6100 3700 60  0000 C CNN
 	1    6100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K5
@@ -1149,10 +1149,10 @@ U 1 1 5A7444F7
 P 5150 3700
 F 0 "K5" H 5100 3700 60  0000 C CNN
 F 1 "KEYSW" H 5150 3600 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5150 3700 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 5150 3700 60  0001 C CNN
 F 3 "" H 5150 3700 60  0000 C CNN
 	1    5150 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K4
@@ -1160,10 +1160,10 @@ U 1 1 5A743B5C
 P 4200 3650
 F 0 "K4" H 4150 3650 60  0000 C CNN
 F 1 "KEYSW" H 4200 3550 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4200 3650 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 4200 3650 60  0001 C CNN
 F 3 "" H 4200 3650 60  0000 C CNN
 	1    4200 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K3
@@ -1171,10 +1171,10 @@ U 1 1 5A74310D
 P 3150 3650
 F 0 "K3" H 3100 3650 60  0000 C CNN
 F 1 "KEYSW" H 3150 3550 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3150 3650 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 3150 3650 60  0001 C CNN
 F 3 "" H 3150 3650 60  0000 C CNN
 	1    3150 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K2
@@ -1182,10 +1182,10 @@ U 1 1 5A7429AE
 P 2150 3650
 F 0 "K2" H 2100 3650 60  0000 C CNN
 F 1 "KEYSW" H 2150 3550 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2150 3650 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 2150 3650 60  0001 C CNN
 F 3 "" H 2150 3650 60  0000 C CNN
 	1    2150 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K1
@@ -1193,10 +1193,10 @@ U 1 1 5A742C89
 P 1250 3650
 F 0 "K1" H 1200 3650 60  0000 C CNN
 F 1 "KEYSW" H 1250 3550 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1250 3650 60  0001 C CNN
+F 2 "keebio-parts:MX-Alps-Choc-1U-NoLED" H 1250 3650 60  0001 C CNN
 F 3 "" H 1250 3650 60  0000 C CNN
 	1    1250 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	3500 3550 3500 3650

@@ -56,7 +56,7 @@ F 1 "KEYSW" H 1200 4300 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1200 4400 60  0001 C CNN
 F 3 "" H 1200 4400 60  0000 C CNN
 	1    1200 4400
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D11
@@ -89,7 +89,7 @@ F 1 "KEYSW" H 2150 4300 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2150 4400 60  0001 C CNN
 F 3 "" H 2150 4400 60  0000 C CNN
 	1    2150 4400
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K13
@@ -100,7 +100,7 @@ F 1 "KEYSW" H 3100 4350 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3100 4450 60  0001 C CNN
 F 3 "" H 3100 4450 60  0000 C CNN
 	1    3100 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D13
@@ -144,7 +144,7 @@ F 1 "KEYSW" H 4200 4350 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4200 4450 60  0001 C CNN
 F 3 "" H 4200 4450 60  0000 C CNN
 	1    4200 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K15
@@ -155,7 +155,7 @@ F 1 "KEYSW" H 5100 4350 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5100 4450 60  0001 C CNN
 F 3 "" H 5100 4450 60  0000 C CNN
 	1    5100 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K16
@@ -166,7 +166,7 @@ F 1 "KEYSW" H 5950 4350 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5950 4450 60  0001 C CNN
 F 3 "" H 5950 4450 60  0000 C CNN
 	1    5950 4450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D15
@@ -232,7 +232,7 @@ F 1 "KEYSW" H 1800 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1800 5150 60  0001 C CNN
 F 3 "" H 1800 5150 60  0000 C CNN
 	1    1800 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K22
@@ -243,7 +243,7 @@ F 1 "KEYSW" H 2700 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2700 5150 60  0001 C CNN
 F 3 "" H 2700 5150 60  0000 C CNN
 	1    2700 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D22
@@ -276,7 +276,7 @@ F 1 "KEYSW" H 3650 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3650 5150 60  0001 C CNN
 F 3 "" H 3650 5150 60  0000 C CNN
 	1    3650 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D24
@@ -298,7 +298,7 @@ F 1 "KEYSW" H 4700 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4700 5150 60  0001 C CNN
 F 3 "" H 4700 5150 60  0000 C CNN
 	1    4700 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K25
@@ -309,7 +309,7 @@ F 1 "KEYSW" H 5950 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED" H 5950 5150 60  0001 C CNN
 F 3 "" H 5950 5150 60  0000 C CNN
 	1    5950 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K27
@@ -320,7 +320,7 @@ F 1 "KEYSW" H 8550 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8550 5150 60  0001 C CNN
 F 3 "" H 8550 5150 60  0000 C CNN
 	1    8550 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D25
@@ -386,7 +386,7 @@ F 1 "KEYSW" H 9100 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9100 3700 60  0001 C CNN
 F 3 "" H 9100 3700 60  0000 C CNN
 	1    9100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K10
@@ -397,7 +397,7 @@ F 1 "KEYSW" H 10050 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10050 3700 60  0001 C CNN
 F 3 "" H 10050 3700 60  0000 C CNN
 	1    10050 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D10
@@ -419,7 +419,7 @@ F 1 "KEYSW" H 7150 4400 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7150 4500 60  0001 C CNN
 F 3 "" H 7150 4500 60  0000 C CNN
 	1    7150 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D17
@@ -441,7 +441,7 @@ F 1 "KEYSW" H 8100 4400 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8100 4500 60  0001 C CNN
 F 3 "" H 8100 4500 60  0000 C CNN
 	1    8100 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D18
@@ -474,7 +474,7 @@ F 1 "KEYSW" H 9100 4400 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9100 4500 60  0001 C CNN
 F 3 "" H 9100 4500 60  0000 C CNN
 	1    9100 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K20
@@ -485,7 +485,7 @@ F 1 "KEYSW" H 10050 4400 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10050 4500 60  0001 C CNN
 F 3 "" H 10050 4500 60  0000 C CNN
 	1    10050 4500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D20
@@ -507,7 +507,7 @@ F 1 "KEYSW" H 7450 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7450 5150 60  0001 C CNN
 F 3 "" H 7450 5150 60  0000 C CNN
 	1    7450 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D26
@@ -529,7 +529,7 @@ F 1 "KEYSW" H 9550 5050 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9550 5150 60  0001 C CNN
 F 3 "" H 9550 5150 60  0000 C CNN
 	1    9550 5150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:D-RESCUE-alpha_pro_micro D28
@@ -1119,7 +1119,7 @@ F 1 "KEYSW" H 8100 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8100 3700 60  0001 C CNN
 F 3 "" H 8100 3700 60  0000 C CNN
 	1    8100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K7
@@ -1130,7 +1130,7 @@ F 1 "KEYSW" H 7150 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7150 3700 60  0001 C CNN
 F 3 "" H 7150 3700 60  0000 C CNN
 	1    7150 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K6
@@ -1141,7 +1141,7 @@ F 1 "KEYSW" H 6100 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 6100 3700 60  0001 C CNN
 F 3 "" H 6100 3700 60  0000 C CNN
 	1    6100 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K5
@@ -1152,7 +1152,7 @@ F 1 "KEYSW" H 5150 3600 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 5150 3700 60  0001 C CNN
 F 3 "" H 5150 3700 60  0000 C CNN
 	1    5150 3700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K4
@@ -1163,7 +1163,7 @@ F 1 "KEYSW" H 4200 3550 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 4200 3650 60  0001 C CNN
 F 3 "" H 4200 3650 60  0000 C CNN
 	1    4200 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K3
@@ -1174,7 +1174,7 @@ F 1 "KEYSW" H 3150 3550 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 3150 3650 60  0001 C CNN
 F 3 "" H 3150 3650 60  0000 C CNN
 	1    3150 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K2
@@ -1185,7 +1185,7 @@ F 1 "KEYSW" H 2150 3550 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 2150 3650 60  0001 C CNN
 F 3 "" H 2150 3650 60  0000 C CNN
 	1    2150 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L alpha_pro_micro-rescue:KEYSW K1
@@ -1196,7 +1196,7 @@ F 1 "KEYSW" H 1250 3550 60  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 1250 3650 60  0001 C CNN
 F 3 "" H 1250 3650 60  0000 C CNN
 	1    1250 3650
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	3500 3550 3500 3650
@@ -1240,45 +1240,45 @@ RGB
 Text GLabel 5400 1850 2    50   Input ~ 0
 RGB
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J2
 U 1 1 5CC5F73A
 P 8700 2050
-F 0 "J?" H 8592 1825 50  0000 C CNN
+F 0 "J2" H 8592 1825 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 8592 1916 50  0000 C CNN
-F 2 "" H 8700 2050 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8700 2050 50  0001 C CNN
 F 3 "~" H 8700 2050 50  0001 C CNN
 	1    8700 2050
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J4
 U 1 1 5CC5FD0E
 P 8700 2300
-F 0 "J?" H 8592 2075 50  0000 C CNN
+F 0 "J4" H 8592 2075 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 8592 2166 50  0000 C CNN
-F 2 "" H 8700 2300 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8700 2300 50  0001 C CNN
 F 3 "~" H 8700 2300 50  0001 C CNN
 	1    8700 2300
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J6
 U 1 1 5CC60365
 P 8700 2550
-F 0 "J?" H 8592 2325 50  0000 C CNN
+F 0 "J6" H 8592 2325 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 8592 2416 50  0000 C CNN
-F 2 "" H 8700 2550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8700 2550 50  0001 C CNN
 F 3 "~" H 8700 2550 50  0001 C CNN
 	1    8700 2550
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J8
 U 1 1 5CC607D9
 P 8700 2800
-F 0 "J?" H 8592 2575 50  0000 C CNN
+F 0 "J8" H 8592 2575 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 8592 2666 50  0000 C CNN
-F 2 "" H 8700 2800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8700 2800 50  0001 C CNN
 F 3 "~" H 8700 2800 50  0001 C CNN
 	1    8700 2800
 	-1   0    0    1   
@@ -1292,45 +1292,45 @@ row2
 Text Label 9150 2800 2    50   ~ 0
 col_tmo
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J9
 U 1 1 5CC8D43F
 P 9600 2800
-F 0 "J?" H 9492 2575 50  0000 C CNN
+F 0 "J9" H 9492 2575 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9492 2666 50  0000 C CNN
-F 2 "" H 9600 2800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 9600 2800 50  0001 C CNN
 F 3 "~" H 9600 2800 50  0001 C CNN
 	1    9600 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J7
 U 1 1 5CC8D449
 P 9600 2550
-F 0 "J?" H 9492 2325 50  0000 C CNN
+F 0 "J7" H 9492 2325 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9492 2416 50  0000 C CNN
-F 2 "" H 9600 2550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 9600 2550 50  0001 C CNN
 F 3 "~" H 9600 2550 50  0001 C CNN
 	1    9600 2550
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J5
 U 1 1 5CC8D453
 P 9600 2300
-F 0 "J?" H 9492 2075 50  0000 C CNN
+F 0 "J5" H 9492 2075 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9492 2166 50  0000 C CNN
-F 2 "" H 9600 2300 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 9600 2300 50  0001 C CNN
 F 3 "~" H 9600 2300 50  0001 C CNN
 	1    9600 2300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J3
 U 1 1 5CC8D45D
 P 9600 2050
-F 0 "J?" H 9492 1825 50  0000 C CNN
+F 0 "J3" H 9492 1825 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9492 1916 50  0000 C CNN
-F 2 "" H 9600 2050 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 9600 2050 50  0001 C CNN
 F 3 "~" H 9600 2050 50  0001 C CNN
 	1    9600 2050
 	1    0    0    -1  

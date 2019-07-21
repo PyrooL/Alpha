@@ -92,6 +92,13 @@ body, html {
     user-select: none;
 }
 
+.footer{
+    font-size: 12px;
+    flex-flow: row nowrap;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
 .logo {
     display: flex;
     flex-flow: row nowrap;

@@ -4,4 +4,5 @@
   (lib (name combodiode)(type KiCad)(uri ${KIPRJMOD}/combodiode.pretty)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name keebio-parts)(type KiCad)(uri C:/Users/lm118/Desktop/git/keebio-parts.pretty)(options "")(descr ""))
 )
