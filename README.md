@@ -24,7 +24,7 @@ A 28-key semi-ortholinear mechanical keyboard designed by PyroL.
 - [ ] 1x Case or plate set
 - [ ] 5x 10mm M3 standoffs
 - [ ] 10x 5mm M3 screws
-- [ ] 28x MX or Alps style switches of your choice
+- [ ] 28x MX, Alps, or Kailh Choc style switches of your choice
 - [ ] 1x Micro USB cable
 
 ## Tools
