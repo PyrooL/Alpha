@@ -95,5 +95,9 @@ Added SKQG reset button pads (no need to manually short reset!) and fixed RGB pi
 
 Diodes now are combo through-hole and SMD compatible! Breakout pins for artisan column ("tmo28") added on both sides. Routing cleaned up etc. 
 
+* v2.0 7/21/19
+
+Choc footprints added! Also support for first version of "TMO28", an artisan column that's still being worked on. 
+
 
 **Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
