@@ -36,14 +36,13 @@ body, html {
     width:1000px;
     max-width:100vw;
     margin:auto;
-    min-height: 100vh;
     padding-left: 100px;
     padding-right:100px;
     padding-top: 24px;
     display: flex;
     justify-content: flex-start;
     flex-flow: column nowrap;
-    align-items: center;
+    align-items: left;
 }
 
 .sub {
@@ -94,9 +93,15 @@ body, html {
 
 .footer{
     font-size: 12px;
-    flex-flow: row nowrap;
+    flex-flow: column wrap;
     padding-top: 80px;
     padding-bottom: 80px;
+}
+
+.footer ion-icon{
+    font-size: 40px;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 
 .logo {
@@ -124,7 +129,8 @@ body, html {
 .buttons {
     display:flex;
     flex-flow: row nowrap;
-    height:100%
+    height:100%;
+    margin-right: 20px;
 }
 
 .navlink {
