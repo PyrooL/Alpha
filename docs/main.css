@@ -91,14 +91,15 @@ body, html {
     user-select: none;
 }
 
-.footer{
+.footer {
     font-size: 12px;
+    text-align: center;
     flex-flow: column wrap;
     padding-top: 80px;
     padding-bottom: 80px;
 }
 
-.footer ion-icon{
+.footer ion-icon {
     font-size: 40px;
     margin-left: 50%;
     margin-right: 50%;
