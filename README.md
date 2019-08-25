@@ -84,7 +84,7 @@ v1.1 and onwards has pins labeled and in the same order as they come on the stri
 
 Assemble the case: for each hole, pass a screw through the top plate, screw in a standoff to finger tightness, then screw in through the bottom plate. Once all screws and standoffs are installed, use a screwdriver to tighten as needed (but not too tight, as acrylic can be brittle!). Flash using QMK (use my firmware, or kbfirmware.com), and enjoy!
 
-Don't forget to send me a pic of your build at @PyroL#7672 on Discord or /u/pyrocrastinator! I'd love to see what you guys do with these!
+Don't forget to send me a pic of your build at @PyroL#7672 on Discord or /u/pyrocrastinator! I'd love to see what you guys do with these! 
 
 # Changelog
 * v1.1 3/2/19
@@ -94,3 +94,6 @@ Added SKQG reset button pads (no need to manually short reset!) and fixed RGB pi
 * v1.2 4/27/19
 
 Diodes now are combo through-hole and SMD compatible! Breakout pins for artisan column ("tmo28") added on both sides. Routing cleaned up etc. 
+
+
+**Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
