@@ -104,6 +104,3 @@ Choc footprints added! Also support for first version of "TMO28", an artisan col
 Fixed disconnected D4, see [here](https://www.instagram.com/p/B15MHgMnYID/?igshid=1266ym89zlw4w) or contact me for fix if you are affected. Only affects v2.0.
 
 **Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
-
-
-**Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
