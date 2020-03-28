@@ -74,11 +74,11 @@ Mount the switches in the plate, and solder them all in. Careful for bent pins!
 
 ## Step 4 (OPTIONAL): LED strip
 
-**If you are using a v1.0 PCB (version not labeled in bottom right):** Remove the 3M adhesive strip on the back of your LED strip and place it on the bottom of the PCB. Cut 3 wires of similar length, preferably of different colors. The LEDs connect to the three-pin header next to the Pro Micro holes. Connect GND to the hole with a square pad, power to the middle hole, and Data In to the last hole.
+Remove the 3M adhesive strip on the back of your LED strip and place it on the bottom of the PCB. Cut 3 wires of similar length, preferably of different colors. Connect VCC, GND, and Data pins on the strip to their respective pins on the PCB.
 
 v1.1 and onwards has pins labeled and in the same order as they come on the strip!
 
-![arrgeebee](photos/instructions/rgb.jpg)
+[**If you are using a v1.0 PCB (one that does not have RGB pins or version number labeled) see here for wiring guide**](photos/instructions/rgb.jpg)
 
 ## Step 5: Case and firmware
 
@@ -102,8 +102,3 @@ Choc footprints added! Also support for first version of "TMO28", an artisan col
 * v2.1 9/1/19
 
 Fixed disconnected D4, see [here](https://www.instagram.com/p/B15MHgMnYID/?igshid=1266ym89zlw4w) or contact me for fix if you are affected. Only affects v2.0.
-
-**Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
-
-
-**Note** It's called Alpha, not Alpha28 :p One GB ran it under Alpha28 and the name stuck even though I think it sounds kinda cheap. 
