@@ -1,7 +1,7 @@
 # Instructions
 
-SVG and Illustrator file for top and bottom plate. It is recommended not to import directly into CAD program, rather open in vector editing software and export in DXF or a format that handles dimensions better in 3d space.
+SVG and Illustrator file for top and bottom plate. If importing into a CAD program, convert it to DXF first or verify the dimensions are correct when you import it. 
 
-Countersinking mounting holes must be done manually with a drill/drill press.
+Countersinking mounting holes may be done manually with a drill press.
 
 3mm acrylic needs a cutout for stab wire.
