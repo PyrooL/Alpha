@@ -5130,7 +5130,7 @@
   (gr_text VCC (at 95.847297 120.860344) (layer F.SilkS) (tstamp 5C7A2FBC)
     (effects (font (size 0.6 0.6) (thickness 0.15)))
   )
-  (gr_text v2.0 (at 83.391137 154.393424) (layer B.SilkS) (tstamp 5C7A28B7)
+  (gr_text v2.1 (at 83.391137 154.393424) (layer B.SilkS) (tstamp 5C7A28B7)
     (effects (font (size 1.5 1.5) (thickness 0.3) italic) (justify mirror))
   )
   (gr_text v2.1 (at 243.179997 156.102844) (layer F.SilkS) (tstamp 5C7A27EB)
