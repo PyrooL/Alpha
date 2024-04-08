@@ -84,6 +84,15 @@ v1.1 and onwards has pins labeled and in the same order as they come on the stri
 
 Assemble the case: for each hole, pass a screw through the top plate, screw in a standoff to finger tightness, then screw in through the bottom plate. Once all screws and standoffs are installed, use a screwdriver to tighten as needed (but not too tight, as acrylic can be brittle!). Flash using QMK (use my firmware, or kbfirmware.com), and enjoy!
 
+Flash steps:
+
+- Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+- Ensure that you have an appropriate firmware file.
+  - For Vial, you can download one off of [keyboard.gay](https://keyboard.gay)
+- Open QMK Toolbox. Plug your PCB in, and press the SKQG reset button (or short the appropriate headers). You should see the device connect for ~10 seconds, then disconnect.
+- Within QMK Toolbox, choose your appropriate firmware file, then check the "Auto-Flash" button.
+- Reset your board again. The firmware should be automatically flashed onto the board.
+
 Don't forget to send me a pic of your build at @PyroL#7672 on Discord or /u/pyrocrastinator! I'd love to see what you guys do with these! 
 
 # Changelog
